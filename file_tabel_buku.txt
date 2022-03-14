@@ -1,0 +1,4 @@
+1;Pemrograman PHP;Penerbit Informatika;12.0;12;14
+3;Pemrograman Berorientasi Objek;Penerbit ANDI;12.0;12;14
+5;Pemrograman Python;Graha Ilmu;12.0;12;14
+8;Pemrograman Pascal;Informatika;75000.0;10;0
